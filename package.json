@@ -1,5 +1,5 @@
 {
-  "name": "romantic-date",
+  "name": "date-invite",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -16,8 +16,5 @@
   "devDependencies": {
     "@vitejs/plugin-react": "4.3.1",
     "vite": "5.4.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
